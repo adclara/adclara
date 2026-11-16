@@ -31,12 +31,6 @@ Convierte un teléfono en un instrumento topográfico de precisión: ángulos, a
 `HTML` `JavaScript` `GPS` `Sensors`
 → [GPSAPP](https://github.com/adclara/GPSAPP)
 
-### MLB PREDICT 2026
-Landing page for an honest MLB betting-analysis model.
-Página de un modelo honesto de análisis de apuestas de MLB.
-`JavaScript`
-→ [mlb-predict-site](https://github.com/adclara/mlb-predict-site)
-
 ### AA SPORTS MATCHDAY STUDIO
 Matchday design prototype for AA Sports. Production: aasport.net
 Prototipo de diseño de jornada para AA Sports. Producción: aasport.net
